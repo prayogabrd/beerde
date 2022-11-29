@@ -4,6 +4,7 @@
 * Indonesia
 * Inggris
 ### Fitur
+* Autocomplete
 * Pencari semua
 * Pencari gambar
 * Pencari video (dikembangkan)
