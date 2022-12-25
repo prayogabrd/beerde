@@ -17,3 +17,4 @@
 ## Bahasa pemrograman yang digunakan
 * PHP
 * Java Script
+• C++
